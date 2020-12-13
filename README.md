@@ -157,14 +157,15 @@ Thomas High School is a Charter school. In the original analysis, Charter school
 
 There were numerous changes to our analysis after excluding the Thomas High School ninth-grade standardized test math and reading scores. Here are four noteworthy adjustments:
 
-1. The most glaring difference is that we no have no test data for Thomas High School night graders. This makes it very difficult to evaluate that group of students and address their needs accordingly. Some consideration should be given to having the students take the test again, or finding some solution to this problem.
+1. The most glaring difference is that we no have no test data for Thomas High School ninth graders. This makes it very difficult to evaluate that group of students and address their needs accordingly. Some consideration should be given to having the students take the test again, or finding some alternative solution to this problem.
 
 2. After excluding the THS ninth graders, the THS overall math scores decreased, as well as the % Passing Math, % Passing Reading, and % Overall Passing.
-The THS overall average reading scores actually increased slightly after the update.
+The THS average reading scores actually increased slightly after the update (despite the % Passing Reading decreasing).
 
-3. In the original analysis, Thomas High School was a top perfomer, with the second-best Overall Passing rate. That ranking did not change with the updated analysis. The Overall Passing % gap between the top performer, Cabrera High School, and THS did widen, however, afte the update. Conversely, the gap between Thomas High School and the others rounding out the top 5 tightened considerably.
+3. In the updated rankings, Thomas High School's ranking in terms of % Passing Reading did change, as they fell behind Griffin High School.
 
-4. In the updated rankings, Thomas High School's ranking in terms of % Passing Reading did change, as they fell behind Griffin High School.
+4. In the original analysis, Thomas High School was a top perfomer, with the second-best Overall Passing rate. That ranking did not change with the updated analysis. The Overall Passing % gap between the top performer, Cabrera High School, and THS did widen, however, after the update. Conversely, the gap between Thomas High School and the others rounding out the top 5 tightened considerably.
+
 
 
 
