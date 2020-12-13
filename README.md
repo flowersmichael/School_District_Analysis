@@ -72,7 +72,7 @@ Only Thomas High School scores were impacted by the updated data. See the compar
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-After replacing the ninth graders' scores, Thomas High School's Overall Passing rate did change, but their ranking did not. THS still ranks second in the district in terms of Overall Passing rate. Notably, their ranking in terms of % Passing Reading did change, as they fell behind Griffin High School in the updated rankings.
+After replacing the ninth graders' scores, Thomas High School's Overall Passing rate did decrease, but their ranking did not. THS still ranks second in the district in terms of Overall Passing rate. Notably, their ranking in terms of % Passing Reading did change, as they fell behind Griffin High School in the updated rankings.
 
 
 *Original Top 5 Schools (Overall Passing Rate)*  
