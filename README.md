@@ -22,14 +22,14 @@ After adjusting our data to exclude the ninth-grade scores at Thomas High School
   * Scores by school type
 
 ## Resources
-* Data Sources: 
-    schools_complete.csv
-    students_complete.csv
+* Data Sources:  
+    schools_complete.csv  
+    students_complete.csv  
     
 * Software: 
-    Python 3.7.6
-    Pandas library
-    Anaconda Jupyter notebook (server version 6.0.3)
+    Python 3.7.6  
+    Pandas library  
+    Anaconda Jupyter notebook (server version 6.0.3)   
 
 ## Results
 * How is the district summary affected?
@@ -53,18 +53,18 @@ Average Reading Score: unchanged
 
 Only Thomas High School scores were impacted by the updated data. See the comparison between the original and updated THS scores and passing percentages below:
 
-*Original Thomas High School Summary*
-![Original THS Summary](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Original%20THS%20Summary.png)
+*Original School Summary*
+![Original School Summary](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Original%20School%20Summary.png)
 
-*Updated Thomas High School Summary*
-![Updated THS Summary](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Updated%20THS%20Summary.png)
+*Updated School Summary*
+![Updated School Summary](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Updated%20School%20Summary.png)
 
 
 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-After replacing the ninth graders' scores, Thomas High School's Overall Passing rate did change, but their ranking did not. THS still ranks second in the district in terms of Overall Passing rate.
+After replacing the ninth graders' scores, Thomas High School's Overall Passing rate did change, but their ranking did not. THS still ranks second in the district in terms of Overall Passing rate. Notably, their ranking in terms of % Passing Reading did change, as they fell behind Griffin High School in the updated rankings.
 
 *Original Top 5 Schools (Overall Passing Rate)*
 ![Original Top 5](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Original%20Top%205%20Schools.png)
