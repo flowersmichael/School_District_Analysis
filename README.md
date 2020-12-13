@@ -65,7 +65,7 @@ Only Thomas High School scores were impacted by the updated data. See the compar
 
 
 *Updated School Summary*  
-![Updated School Summary](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Updated%20School%20Summary.png)
+![Updated School Summary](http://localhost:8888/view/Desktop/GitHub/School_District_Analysis/Resources/Updated%20School%20Summary2.png)
 
 
 
