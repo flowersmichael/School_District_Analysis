@@ -3,7 +3,7 @@
 ## Overview of the School District Analysis
 Our client, the chief data scientist for a city school district, was tasked with preparing standardized test data for analysis, reporting, and presentation to provide insights about student performance trends and patterns. These insights would be used to inform discussions and strategic planning at the school and district level.
 
-At the outset we explored and cleaned the student data, then moved on to generate school and district summaries. We then identified high and low performing schools, and broke out average math and reading scores by grade. We also grouped scores by school type (charter vs district), school size, and school spending per student.
+At the outset we explored and cleaned the student data, then moved on to generating school and district summaries. We then identified high and low performing schools, and broke out average math and reading scores by grade. We also grouped scores by school type (charter vs district), school size, and school spending per student.
 
 After creating these reports, some evidence emerged that the ninth-grade scores for one of the high schools may have been altered. In this final step we removed the suspicious test scores and generated the district and shool summaries again.
 
@@ -34,7 +34,7 @@ After adjusting our data to exclude the ninth-grade scores at Thomas High School
 ## Results
 ### How is the district summary affected?
 
-The district summary shows that scores and % passing rates decreased, if not dramatically, after excluding the Thomas High School (THS) ninth-grade scores. See the comparison below (at one decimal place):
+The district summary shows that average math scores, as well as all passing rates decreased, if not dramatically, after excluding the Thomas High School (THS) ninth-grade scores. See the comparison below (at one decimal place):
 
 
 *Original District Summary*  
