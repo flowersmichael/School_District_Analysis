@@ -34,7 +34,7 @@ After adjusting our data to exclude the ninth-grade scores at Thomas High School
 ## Results
 ### How is the district summary affected?
 
-The district summary shows that average math scores, as well as all passing rates decreased, if not dramatically, after excluding the Thomas High School (THS) ninth-grade scores. See the comparison below (at one decimal place):
+The district summary shows that average math scores, as well as all passing rates decreased, if not dramatically, after excluding the Thomas High School (THS) ninth-grade scores. Average reading scores actually slightly improved after excluding the ninth graders, although it's not apparent in comparison below (at one decimal place):
 
 
 *Original District Summary*  
@@ -48,7 +48,7 @@ The district summary shows that average math scores, as well as all passing rate
 
 
 Average Math Score: down 0.1  
-Average Reading Score: unchanged  
+Average Reading Score: unchanged (up slightly not not visible here) 
 % Passing Math: down 0.2  
 % Passing Reading: down 0.1  
 % Overall Reading: down 0.3  
@@ -65,7 +65,7 @@ Only Thomas High School scores were impacted by the updated data. See the compar
 
 
 *Updated School Summary*  
-![Updated School Summary](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Updated%20School%20Summary.png)
+![Updated School Summary](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Updated%20School%20Summary2.png)
 
 
 
@@ -91,7 +91,7 @@ After replacing the ninth graders' scores, Thomas High School's Overall Passing 
 
 #### Math and reading scores by grade  
     
-Only the ninth-grade results for Thomas High School were impacted. None of the other schools were impacted, and no scores for 10th, 11th, and 12th grade scores     in all schools were not affected.
+Only the ninth-grade results for Thomas High School were impacted. None of the other schools were impacted, and no scores for 10th, 11th, and 12th graders in any school including THS were affected.
  
  
 *Original Math Scores by Grade*  
@@ -115,7 +115,7 @@ Only the ninth-grade results for Thomas High School were impacted. None of the o
   
 #### Scores by school spending
 
-Thomas High School spends $638 per student, landing THS in the third bin (first being least spent per student, fourth being most spent per student). The           changes slightly impacted the Overall Passing Rate for the THS bin, but did not impact the spending bin rankings in terms of Overall Passing Rate.
+Thomas High School spends $638 per student, landing THS in the $630-644 bin. In the original analysis, this grouping spent the second most and had the third best ranking out of the four groupings. While the update slightly impacted the Overall Passing Rate for the THS bin, it did not impact the rankings in terms of Overall Passing Rate.
 
 
 *Original Spending Bin Analysis*  
@@ -143,7 +143,7 @@ Thomas High School has 1635 students, and is categorized as a medium-sized schoo
 
 #### Scores by school type  
 
-Thomas High School is a Charter school. In the original analysis, Charter schools outperformed district schools across all score and % passing categories. The Charter school performance changed slightly after the update. The Average Math Score dropped slightly at two decimal places, while the Average Reading Score improved slightly. The % Passing rates for Charter schools all decreased slightly in the updated analysis.
+Thomas High School is a Charter school. In the original analysis, Charter schools outperformed district schools across all score and % passing categories. The Charter school performance changed slightly after the update. The Average Math Score dropped slightly at two decimal places, while the Average Reading Score improved slightly. The % Passing rates for Charter schools all decreased slightly in the updated analysis, but Charter schools continued to outperform relative to district schools across categories.
 
 
 *Original School Type Analysis*  
@@ -154,6 +154,17 @@ Thomas High School is a Charter school. In the original analysis, Charter school
 ![Updated School Type Analysis](https://github.com/flowersmichael/School_District_Analysis/blob/main/Resources/Updated%20School%20Type%20Analysis.png)
 
 ## Summary
+
+There were numerous changes to our analysis after excluding the Thomas High School ninth-grade standardized test math and reading scores. Here are four noteworthy adjustments:
+
+1. The most glaring difference is that we no have no test data for Thomas High School ninth graders. This makes it very difficult to evaluate that group of students and address their needs accordingly. Some consideration should be given to having the students take the test again, or finding some alternative solution to this problem.
+
+2. After excluding the THS ninth graders, the THS overall math scores decreased, as well as the % Passing Math, % Passing Reading, and % Overall Passing.
+The THS average reading scores actually increased slightly after the update (despite the % Passing Reading decreasing).
+
+3. In the updated rankings, Thomas High School's ranking in terms of % Passing Reading did change, as they fell behind Griffin High School.
+
+4. In the original analysis, Thomas High School was a top perfomer, with the second-best Overall Passing rate. That ranking did not change with the updated analysis. The Overall Passing % gap between the top performer, Cabrera High School, and THS did widen, however, after the update. Conversely, the gap between Thomas High School and the others rounding out the top 5 tightened considerably.
 
 
 
